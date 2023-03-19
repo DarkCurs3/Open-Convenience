@@ -1,0 +1,72 @@
+Simple Malenia Moveset
+Endorsements
+27
+Unique DLs
+721
+Total DLs
+1,320
+Total views
+9,696
+Version
+2.1
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+06 March 2023248AM
+Original upload
+12 February 2023312AM
+Created by
+butidigress
+Uploaded by
+butidigress
+Virus scan
+Safe to use
+Tags for this mod
+GAMEPLAY
+ANIMATION - MODIFIED
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 1
+VIDEOS 2
+POSTS 58
+FORUM 0
+BUGS 0
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+A mod that makes the katana attacks some of Malenia's boss animations. No requirements.
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+Changelogs
+Donations
+Another Malenia Mod
+﻿This is something I made for my game that I'm sharing for others who might want to use it.
+﻿I gave the katana some of ﻿Malenia's moves. Comes with proper sound effects (player sounds, not Malenia's).
+
+﻿As of 2.0, this mod has NO requirements. This mod contains NO regulation.bin!!
+
+﻿Can easily be merged with Vigil (overhaul I use), Elden Ring Reforged, vanilla 1.08.1, whatever. You just need a basic ﻿﻿understanding of Yapped.
+
+Moveset
+ 
+
+
+
+
+Some notes
+Sounds effects are med. This is the most tedious part of animation modding.
+I removed as many sparksbutterflyscarlet aeonia effects from the animations as I could because I didn't like them. Some might still show up though.
+
+﻿taes edited in c000 029.tae (katana), a030.tae (axe)
+﻿files edited in a2x a029_030000.hkx--a029_030700.hkx, a029_320000.hkx-a029_327000.hkx
+﻿files edited in a3x a030_030620.hkx
