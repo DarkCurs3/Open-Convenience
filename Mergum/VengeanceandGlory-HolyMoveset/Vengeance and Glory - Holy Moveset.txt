@@ -1,0 +1,92 @@
+Vengeance and Glory - Holy Moveset
+Endorsements
+19
+Unique DLs
+809
+Total DLs
+941
+Total views
+19,865
+Version
+1.001
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+29 January 20231111PM
+Original upload
+29 January 2023953PM
+Created by
+Clever
+Uploaded by
+clevererraptor6
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 1
+IMAGES 12
+VIDEOS 2
+POSTS 39
+BUGS 0
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+Combines the inseparable sword with a holy chakramshield, creating an extremely versatile paired weapon. Use the holy shield to deflect enemy magic or your own returning disks.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Vengeance and Glory
+A holy sword and shield designed to be an unbreakable aggressive wall.
+Deflect enemy magic or your own thrown discs, trapping your enemy in a righteous game of ping-pong. 
+
+Unique Skill Vanguard's Glory
+Raise your shield into a ready stance to briefly activate a holy barrier, deflecting all magic. 
+Follow up with a strong attack to emit a powerful radiant explosion. Your shield blocks continuously during this skill. 
+
+
+
+﻿
+
+
+
+The inseparable sword is gorgeous and strong, but doesn't even get a unique skill. Coupled with some weirdness in the files implying it was once a longsword, I decided to change the weapon drastically. 
+Most attacks raise your shield, and have active block frames while the shield is raised 
+Some attacks activate a deflect barrier, which reflects all incoming magic.
+Some attacks launch holy discs - which can be bounced back into the enemy with the deflect barrier.
+
+Once you get used to which attacks launch discs and which attack deflect, you become an unstoppable offensive wall. Hope you like it!
+
+To Install
+1.
+Download Mod Engine 2 here httpsgithub.comsoulsmodsModEngine2releases
+Click Assets, then download the top .zip file.
+Extract the contents of the .zip onto your PC. 
+
+2.
+Download the mod and extract the contents of the zip file into the mod folder in the same directory as the modengine2_launcher.exe.
+Click launchmod_eldenring.bat to launch the game.
+
+3.
+Obtain the Inseparable Sword. (Kill D early or go through his questline)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Donations httpsko-fi.comclevererraptor6
+Discord Server httpsdiscord.ggg58uzuvmep
+
+Known Issues
+Sometimes a thin golden streak appears near the shield. Switch to one-handed then back to two-handed to make it go away. 
+
+Regulation merging 
+How to merge regulation.bin files with DSMapStudio
+TAEs edited
+a852.tae (ornamental straight sword moveset)
+HKX added
+All the a69 files inside the a6x folder.
