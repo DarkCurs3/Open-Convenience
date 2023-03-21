@@ -3,8 +3,10 @@
     a23.tae     SwordOfNightAndFlameUnbound
     a29.tae     Simple Malenia Moveset
     a30.tae     Simple Malenia Moveset
+    a31.tae     Dragon GreatClawUnbound
     a32.tae     GodrickGoldenGreatAxe
     a177.tae    GodrickGoldenGreatAxe
+    a661.tae    Dragon GreatClawUnbound
     a760.tae    SwordOfNightAndFlameUnbound
     a830.tae    GodrickGoldenGreatAxe
     
