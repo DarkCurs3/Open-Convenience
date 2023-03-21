@@ -1,0 +1,4 @@
+ID,Name,variationId,behaviorJudgeId,ezStateBehaviorType_old,refType,pad2,refId,consumeSA,stamina,consumeDurability,category,heroPoint,pad1,
+900000551,Unsheathe - Gravity Wave,0,551,1,1,[0|0],3010,0,45,0,1,0,[0|0]
+900000552,Unsheathe - Gravity Slam,0,552,1,1,[0|0],2205,0,0,0,12,0,[0|0]
+900000553,Meteoric Ore Blade R2s - Gravity Bolt,0,553,1,1,[0|0],2345,0,10,0,12,0,[0|0]
