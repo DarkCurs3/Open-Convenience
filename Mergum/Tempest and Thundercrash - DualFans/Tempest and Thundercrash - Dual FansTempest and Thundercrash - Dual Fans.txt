@@ -1,0 +1,123 @@
+Tempest and Thundercrash - Dual Fans
+Endorsements
+40
+Unique DLs
+1,705
+Total DLs
+2,145
+Total views
+21,205
+Version
+V1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+01 February 20231012PM
+Original upload
+22 November 2022515AM
+Created by
+The Roaring Forge
+Uploaded by
+TheRoaringForge
+Virus scan
+Some manually verified files
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 20
+VIDEOS 3
+POSTS 38
+BUGS 1
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+Beautiful dual fan weapons for flashy and fluid combat. Replaces the hookclaws.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Mod Engine 2 highly recommended for installing! 
+To install, drag the contents of the Tempest and Thundercrash Nexus folder into your Mod Engine 2's mod folder. 
+
+Have fun! 
+
+The team is open for commissions, so let us know if you'd like any personal mods done for Elden Ring! 
+
+The Roaring Forge is creating Digital Black-smithed metalworks  Patreon
+
+Weapon Replaced Hookclaws
+
+Description -
+
+The glintstone of the forgotten reedlander witch, and the heart of a dragon priest were married with steel within these weapons. The union of lightning and wind sorcery would once retrieve the stars.
+Or so Master Iji hoped.
+ 
+Installation
+
+Mod Engine
+1. Download the mod.
+2. Extract it to your game folder where mods is.
+3. You're good to go!
+Mod Engine httpsgithub.comsoulsmodsModEngine2
+ 
+UXM Tutorial
+1. Download the mod.
+2. Find parts folder in the zip and drop it in your game folder.
+3. You're good to go!
+UXM httpsyoutu.be-twIbMznh4E
+ 
+Parts explained to merge with other mods
+ 
+wp_a_1152.partsbnd.dcx --- Dual fans model (In parts folder)
+ 
+=============
+
+Everything added in the regulation.bin
+
+All param rows added start with XOV for ease of use. Locate with CTRL+F, and they are in the following params
+-Bullet
+-BehaviourParam_PC
+
+All rows changed
+-EquipParamWeapon Hookclaws   ID 22000000
+
+=============
+
+c0000.anibnd.dcx (In chr folder)
+
+=============
+
+The TAEs edited were the following
+
+a00 (quickstep)
+a023 (hookclaws)
+a852
+a611 (spinning strikes)
+
+=============
+The Roaring Forge Team
+
+Kaji22 The Smith (DesignerModelerTextureArtist) (Link coming soon)
+Luna (ImporterMoveset Artist FX Editor) DannaRain11's profile at Elden Ring Nexus - Mods and Community 
+Felahliir (Lore Sage  Icon Artist  General Modder) Esparta147's profile at Elden Ring Nexus - Mods and Community
+Rainer Geis (Video Editor  General Modder) rainergeis's profile at Nexusmods and community
+AcetoneEyedrops (Moveset Artist) Cheesegrate1's profile at Elden Ring Nexus - Mods and Community
+Clevererraptor6 (Moveset Artist FX Editor) clevererraptor6's profile at Nexus mods and community
+Bird of Light (Importer) SatoshiKura's profile at Elden Ring Nexus - Mods and Community
+Wasek (Youtuber) Wasek's profile on Youtube
+
+==============================================================
+ 
+Kaji22 The Smith Provides a commissions service to digitally blacksmith the communities dream fantasy weapons and possibly
+armor. Taking each client from initial sketch to final model.
+
+Link below
+The Roaring Forge is creating Digital Black-smithed metalworks  Patreon
+
+We'd like to thank all our patrons who've come through to support us. From the bottom of our hearts, It means the world to us. 
