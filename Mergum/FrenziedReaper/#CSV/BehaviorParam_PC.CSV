@@ -1,0 +1,10 @@
+ID,Name,variationId,behaviorJudgeId,ezStateBehaviorType_old,refType,pad2,refId,consumeSA,stamina,consumeDurability,category,heroPoint,pad1,
+900000900,[Frenzied Reaper],0,900,1,1,[0|0],2747,0,0,0,1,0,[0|0]
+900000901,[Frenzied Reaper] 3-Finger Flame,0,900,1,1,[0|0],900000900,0,0,0,1,0,[0|0]
+900000905,[Frenzied Reaper] Unendurable Frenzy,0,905,1,1,[0|0],900000905,0,0,0,1,0,[0|0]
+900000906,[Frenzied Reaper] Unendurable Frenzy,0,906,1,1,[0|0],900000906,0,0,0,1,0,[0|0]
+900000907,[Frenzied Reaper] Unendurable Frenzy,0,907,1,1,[0|0],900000907,0,0,0,1,0,[0|0]
+900000908,[Frenzied Reaper] Unendurable Frenzy,0,908,1,1,[0|0],900000915,0,0,0,1,0,[0|0]
+900000909,[Frenzied Reaper] Small Explosion ,0,909,1,1,[0|0],900000914,0,0,0,1,0,[0|0]
+900000910,[Frenzied Reaper] Vyke's Explosion,0,910,1,1,[0|0],900000917,0,0,0,1,0,[0|0]
+900000911,[Frenzied Reaper] Frenzied Burst,0,911,1,1,[0|0],900000908,0,0,0,1,0,[0|0]
