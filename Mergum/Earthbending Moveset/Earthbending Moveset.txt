@@ -1,0 +1,117 @@
+Earthbending Moveset
+
+    Endorsements
+    36
+    Unique DLs
+    1,615
+    Total DLs
+    2,178
+    Total views
+    27,642
+    Version
+    1.001
+
+    Add media
+    Track
+    Endorse
+    Vote
+    Download
+    Vortex
+    Manual
+
+Last updated
+26 October 2022 1210AM
+Original upload
+24 October 2022 547AM
+Created by
+Clever
+Uploaded by
+clevererraptor6
+Virus scan
+Safe to use
+Tags for this mod
+
+Tag this mod
+
+    Description
+    Files 2
+    Images 11
+    Videos 1
+    Posts 49
+    Bugs 2
+    Logs
+    Stats
+
+About this mod
+You haven't downloaded this mod yet
+
+Become an Earthbender. Full moveset, including Lavabending ash of war.
+
+    Report Abuse
+
+Share
+
+Permissions and credits
+
+Earthbending is here! 
+
+The one-handed moveset is range-focused, with boulder throws, eruptions, and projectiles.
+The two-handed moveset is a brawler moveset, with high poise and devastating rockshard attacks. 
+
+Lavasurfing Heat up the earth's crust to generate molten lava beneath your feet, then begin surfing on the surface, generating a blistering path of destruction. Hold to continue surfing.
+
+
+
+
+
+
+
+Where to Find It
+
+    Earthbending has replaced the Spiked Caestus, sold by the Isolated Merchant in Dragonbarrow. 
+    If you want Lavasurfing on another weapon, it can be found at the location that the Prelate's Charge Ash of War is found.
+
+
+
+Notes
+
+    Due to animation restrictions, this mod was built on top of my Martial Arts mod. The Earthbending weapon will have the Earthbending moveset, and other fist weapons will have the Martial Arts moveset. 
+    Also due to animation restrictions, Earhbending does not have a dual-wield moveset. Please only 1H or 2H the Earthbending weapon. 
+    As always, the Avatar movesets are very hard to balance. Please leave suggestions in the comments section. 
+
+
+
+This mod is a part of Clever's Moveset Modpack.
+
+
+To Install
+1.
+
+    Download Mod Engine 2 here httpsgithub.comsoulsmodsModEngine2releases
+    Click Assets, then download the top .zip file.
+    Extract the contents of the .zip onto your PC. 
+
+
+2.
+
+    Download the mod and extract the contents of the zip file into the mod folder in the same directory as the modengine2_launcher.exe.
+    Click launchmod_eldenring.bat to launch the game.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Check out the other two elements I've done!
+Airbending
+Firebending
+
+Regulation.bin merging(Optional)
+
+    See the new MapStudio tutorial here httpswww.nexusmods.comeldenringarticles174﻿
+
+
+TAEs Changed
+
+    a042 - Fist Moveset
+    a613 - Ash of War Prelate's Charge
+    a938 - Unused Moveset
+
