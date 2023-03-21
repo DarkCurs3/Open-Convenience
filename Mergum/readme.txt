@@ -1,18 +1,21 @@
-#c0000-anibnd-dcx#
-  \GR\data\INTERROOT_win64\chr\c0000\tae\
+<chr/
+  #c0000-anibnd-dcx#
+    \GR\data\INTERROOT_win64\chr\c0000\tae\
+    a00.tae     Tempest and Thundercrash - DualFans
     a23.tae     SwordOfNightAndFlameUnbound
+    a23.tae     Tempest and Thundercrash - DualFans
     a29.tae     Simple Malenia Moveset
     a30.tae     Simple Malenia Moveset
     a31.tae     Dragon GreatClawUnbound
     a32.tae     GodrickGoldenGreatAxe
     a177.tae    GodrickGoldenGreatAxe
+    a611.tae    Tempest and Thundercrash - DualFans
     a661.tae    Dragon GreatClawUnbound
     a760.tae    SwordOfNightAndFlameUnbound
     a830.tae    GodrickGoldenGreatAxe
-    
-    
-#c0000_a2x-anibnd-dcx#
-  \GR\data\INTERROOT_win64\chr\c0000\hkx\a2x_compendium\
+    a852.tae    Tempest and Thundercrash - DualFans
+  #c0000_a2x-anibnd-dcx#
+    \GR\data\INTERROOT_win64\chr\c0000\hkx\a2x_compendium\
     a029_030000.hkx   Simple Malenia Moveset
     a029_030010.hkx   Simple Malenia Moveset
     a029_030020.hkx   Simple Malenia Moveset
@@ -44,6 +47,12 @@
     a029_032510.hkx		Simple Malenia Moveset
     a029_032515.hkx		Simple Malenia Moveset
     a029_032700.hkx		Simple Malenia Moveset
-#c0000_a3x-anibnd-dcx#
+  #c0000_a3x-anibnd-dcx#
   \GR\data\INTERROOT_win64\chr\c0000\hkx\a3x_compendium\
     a030_030620.hkx		Simple Malenia Moveset
+
+
+chr/>
+
+<parts/
+    wp_a_1152.partsbnd.dcx      Tempest and Thundercrash - DualFans
