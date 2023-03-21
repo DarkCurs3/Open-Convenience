@@ -8,16 +8,19 @@
     a30.tae     Simple Malenia Moveset
     a31.tae     Dragon GreatClawUnbound
     a32.tae     GodrickGoldenGreatAxe
+    a42.tae     Earthbending Moveset
     a50.tae     FrenziedReaper
     a166.tae    VoidwalkerMeteoricOreBlade
     a177.tae    GodrickGoldenGreatAxe
     a611.tae    Tempest and Thundercrash - DualFans
+    a613.tae    Earthbending Moveset
     a614.tae    VoidwalkerMeteoricOreBlade
     a661.tae    Dragon GreatClawUnbound
     a760.tae    SwordOfNightAndFlameUnbound
     a830.tae    GodrickGoldenGreatAxe
     a850.tae    FrenziedReaper
     a852.tae    Tempest and Thundercrash - DualFans
+    a938.tae    Earthbending Moveset
     
   #c0000_a2x-anibnd-dcx#
     \GR\data\INTERROOT_win64\chr\c0000\hkx\a2x_compendium\
@@ -56,7 +59,10 @@
   #c0000_a3x-anibnd-dcx#
   \GR\data\INTERROOT_win64\chr\c0000\hkx\a3x_compendium\
     a030_030620.hkx	      	Simple Malenia Moveset
-    
+  #c0000_a4x.anibnd.dcx     Earthbending Moveset
+  #c0000_a9x.anibnd.dcx     Earthbending Moveset
+  
+  
   #c0000_a5x.anibnd.dcx     FrenziedReaper
 chr/>
 
