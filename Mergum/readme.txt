@@ -8,8 +8,10 @@
     a30.tae     Simple Malenia Moveset
     a31.tae     Dragon GreatClawUnbound
     a32.tae     GodrickGoldenGreatAxe
+    a166.tae    VoidwalkerMeteoricOreBlade
     a177.tae    GodrickGoldenGreatAxe
     a611.tae    Tempest and Thundercrash - DualFans
+    a614.tae    VoidwalkerMeteoricOreBlade
     a661.tae    Dragon GreatClawUnbound
     a760.tae    SwordOfNightAndFlameUnbound
     a830.tae    GodrickGoldenGreatAxe
