@@ -1,0 +1,69 @@
+https://www.nexusmods.com/eldenring/mods/2618
+Sword of Night and Flame - Unbound
+Endorsements
+312
+Unique DLs
+16,474
+Total DLs
+22,356
+Total views
+105,244
+Version
+1.1.1
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+08 March 2023334AM
+Original upload
+03 December 20221003AM
+Created by
+GAMMANguyener
+Uploaded by
+GAMMANguyener
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 12
+VIDEOS 2
+POSTS 227
+BUGS 3
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+An overhaul of the legendary Sword of Night and Flame to be cooler, stronger, and maybe just a little OP. Download to get an all new moveset and Ash of War!
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+Changelogs
+Sword of Night and Flame Unbound
+
+This is my third Elden Ring mod, an overhaul of the Sword of Night and Flame.
+Here's the list of changes;
+- Lore of weapon and ash of war changed.
+- Changed damage scaling.
+- Now comes with a completely new moveset, which replaces the Straight Sword moveset.
+- Now comes with a new Ash of War, Equinox Onslaught, which replaces White Shadow's Lure.
+If you have any issues with the mod, let me know.
+
+IMPORTANT NOTE
+
+This goes for this mod and all of my past and future mods; I do not intend for my mods to be merged with anyone elses but my own. I will not edit the mod specifically to be compatible with a mod that is not my own. I only write the TAEs and things just as a reminder to myself for convenience. If you wish to play any of my mods with another mod that isn't compatible with mine, do not ask me to edit it personally for you, and just do it yourself.
+
+TAE's Edited
+a23, and a760
+Paramaters Edited
+AtkParam_Pc, BehaviorParam_PC, Bullet, BulletCreateLimitParam, EquipWeaponParam, SpEffectParam, and SwordArtsParam.
+Text Edited Weapons and SwordArts.
+Installation
+Download ModEngine2 and set it up,
+then put the mod folder from the NightandFlameUnbound folder into the ModEngine2 folder.

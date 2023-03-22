@@ -1,0 +1,73 @@
+https://www.nexusmods.com/eldenring/mods/2338?tab=description
+Ruins Greatsword - Unbound
+Endorsements
+135
+Unique DLs
+4,086
+Total DLs
+5,351
+Total views
+34,023
+Version
+1.08.1
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+08 March 2023339AM
+Original upload
+29 September 2022151AM
+Created by
+GAMMANguyener
+Uploaded by
+GAMMANguyener
+Virus scan
+Safe to use
+Tags for this mod
+ER MODATHON 2022
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 13
+VIDEOS 5
+POSTS 99
+FORUM 0
+BUGS 1
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+An overhaul of the legendary Ruins Greatsword to be cooler, stronger, and maybe just a little OP. Download to get an all new moveset and Ash of War!
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+Changelogs
+Ruins Greatsword Unbound
+
+This is my first Elden Ring mod, an overhaul of the Ruins Greatsword. I plan to do this with more weapons, just not entirely sure what.
+Here's the list of changes;
+- Lore of weapon and ash of war changed.
+- Changed damage scaling for more magic damage.
+- Int Requirement raised to 38, and lowered Strength Requirement to 31.
+- Holding the weapon imbues your body with gravity magic, causing your equip load to be boosted.
+- Now comes with a completely new moveset, which replaces the Iron CleaverCelebrants' Cleaver and part of the Axe moveset.
+- Now comes with a new Ash of War, Devastation of the Naturalborn, which replaces Square Off.
+If you have any issues with the mod, let me know.
+
+IMPORTANT NOTE
+
+This goes for this mod and all of my past and future mods; I do not intend for my mods to be merged with anyone elses but my own. I will not edit the mod specifically to be compatible with a mod that is not my own. I only write the TAEs and things just as a reminder to myself for convenience. If you wish to play any of my mods with another mod that isn't compatible with mine, do not ask me to edit it personally for you, and just do it yourself.
+
+TAE's Edited
+a30, a172, and a615
+Paramaters Edited
+AtkParam_Pc, BehaviorParam_PC, Bullet, EquipParamWeapon, SpEffectParam, and SwordArtsParam.
+Text Edited Weapons and SwordArts.
+Installation
+Download ModEngine2 and set it up,
+then put the mod folder from Ruins Greatsword Unbound into the ModEngine2 folder.

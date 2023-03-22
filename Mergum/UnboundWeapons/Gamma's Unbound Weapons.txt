@@ -1,0 +1,69 @@
+Gamma's Unbound Weapons
+Endorsements
+16
+Unique DLs
+1,469
+Total DLs
+1,680
+Total views
+14,837
+Version
+1.0.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+08 March 2023329AM
+Original upload
+08 March 2023329AM
+Created by
+GAMMANguyener
+Uploaded by
+GAMMANguyener
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 1
+IMAGES 4
+VIDEOS 2
+POSTS 19
+BUGS 0
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 18 Mar 2023
+A modpack filled with flashy, overpowered weapons that will leave a path of destruction in your wake. Unleash your power with magic swords that can slice through anything and lightning hammers that crush your enemies. With Gamma's Unbound Weapons, the action never stops.
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+Changelogs
+A Modpack for all of my Unbound Weapons!
+
+Currently, the list of Weapons are;
+
+https://www.nexusmods.com/eldenring/mods/3175?tab=description
+Ruins Greatsword Unbound
+﻿Sword of Night and Flame Unbound
+Dragon Greatclaw Unbound﻿
+
+IMPORTANT NOTE
+
+This goes for this Modpack and all of my past and future mods; I do not intend for my mods to be merged with anyone elses but my own. I will not edit the mod specifically to be compatible with a mod that is not my own. I only write the TAEs and things just as a reminder to myself for convenience. If you wish to play any of my mods with another mod that isn't compatible with mine, do not ask me to edit it personally for you, and just do it yourself.
+
+TAE's Edited
+a23, a30, a31, a172, a615, a661, a760
+Paramaters Edited
+AtkParam_Pc, AtkElementCorrect, BehaviorParam_PC, Bullet, BulletCreateLimitParam, EquipParamGem, EquipWeaponParam, SpEffectParam, and SwordArtsParam.
+Text Edited Weapons and SwordArts.
+
+Installation
+Download ModEngine2 and set it up,
+then put the mod folder from the UnboundWeaponPack folder into the ModEngine2 folder.

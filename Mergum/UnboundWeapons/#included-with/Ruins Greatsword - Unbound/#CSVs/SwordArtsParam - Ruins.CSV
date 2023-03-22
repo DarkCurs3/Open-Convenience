@@ -1,0 +1,2 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,swordArtsType,artsSpeedType,refStatus,isRefRightArts,isGrayoutLeftHand,isGrayoutRightHand,isGrayoutBothHand,reserve2,usePoint_L1,usePoint_L2,usePoint_R1,usePoint_R2,textId,useMagicPoint_L1,useMagicPoint_L2,useMagicPoint_R1,useMagicPoint_R2,swordArtsTypeNew,pad,iconId,aiUsageId,
+115,Square Off,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,115,-1,18,43,72,15,0,0,11004003
