@@ -1,0 +1,55 @@
+v3
+See Nexus page for changelog
+
+HOW TO INSTALL
+Attack Recovery Overhaul Base Version:
+1. Download Mod Engine 2, extract it somewhere
+2. Place Attack Recovery Overhaul's chr folder into Mod Engine 2's mod folder. Overwrite when asked.
+3. In the Mod Engine 2 folder, use "launchmod_eldenring" to play the game.
+
+Swordsmanship Timed Block + Attack Recovery Overhaul:
+1. Download Swordsmanship and install the Timed Block regulation.bin file into your mod engine 2 mod folder.
+2. Place Swordsmanship Timed Block+ARO's chr folder into the mod engine 2 mod folder. Overwrite when asked. 
+3. In the Mod Engine 2 folder, use "launchmod_eldenring" to play the game.
+
+Elden Ring Reforged + Attack Recovery Overhaul:
+1. Install Elden Ring Reforged using the instructions on that mod page.
+2. Place ERR+ARO's chr folder into Mod Engine 2's mod folder. Overwrite when asked.
+3. In the Mod Engine 2 folder, use "launchmod_eldenring" to play the game.
+
+
+TAE FILES EDITED (For people who want to merge this mod into another)
+20 (Daggers)
+22 (Claws)
+23 (Straight Swords)
+24 (Twinblades)
+25 (Greatsword)
+26 (Colossal Greatsword)
+27 (Thrusting Sword)
+28 (Curved Sword)
+29 (Katana)
+30 (Axe)
+36 (Spears)
+38 (Halberd)
+40 (Curved Greatsword)
+42 (Fist)
+43 (Whips)
+50 (Scythe)
+103 (Erdsteel/Black Knife Heavy)
+120 (Eleonora's Poleblade Unique Attacks)
+121 (Godskin Peeler Unique Attacks)
+128 (Unique Greatsword)
+156 (Shamshir/Scimitar)
+165 (Serpentbone)
+171 (Warped Axe)
+220 (Fist)
+211 (Golden Halberd Unique Attacks)
+212 (Guardian Swordspear Unique Attacks)
+227 (Raptor Talons Heavy)
+852 (Ornamental Straight Sword)
+
+SPELLS/AOW
+424 (Burn, O Flame)
+499 (Black Flame Ritual)
+669 (Black Flame Tornado)
+847 (Nebula, Bastard's Stars)

@@ -1,0 +1,82 @@
+Timed Block Parry
+Endorsements
+162
+Unique DLs
+4,861
+Total DLs
+6,931
+Total views
+64,206
+Version
+1.002
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+13 June 2022724PM
+Original upload
+22 May 2022319AM
+Created by
+Clever
+Uploaded by
+clevererraptor6
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 1
+VIDEOS 1
+POSTS 86
+BUGS 1
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 22 Mar 2023
+Timing your block correctly, parries the enemy.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Updated for Elden Ring 1.5
+
+The parry window is the same as a medium shield (5 frames), but with much less startup delay.
+You can block with any weapon to parry, not just shields.
+This is for players that want to parry skillfully, but want to free their L2 button up for other ashes of war or 2-hand a weapon.
+
+
+
+This is a commissioned mod! Thank you to the client for the great idea.
+
+Warning This overwrites the c0000.animbnd file. If you have another mod that changes this file (like the Swordsmanship mod), this will overwrite it and they cannot be easily merged. See below for list of changed TAEs.
+
+This mod is a part of Clever's Moveset Modpack.
+
+To Install
+1.
+Download Mod Engine 2 here httpsgithub.comsoulsmodsModEngine2releases
+Click Assets, then download the top .zip file.
+Extract the contents of the .zip onto your PC. 
+
+2.
+Download the mod and extract the contents of the zip file into the mod folder in the same directory as the modengine2_launcher.exe.
+Click launchmod_eldenring.bat to launch the game.
+
+----------------------------------------------------------------------------
+
+Removal
+Delete the contents of the mod folder in the same directory as the modengine2_launcher.exe.
+
+TAEs edited
+a00
+a02
+a03
+a10
+a12
+a13
+a15
