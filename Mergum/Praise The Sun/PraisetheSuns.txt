@@ -1,0 +1,12 @@
+Here why dont you add this to the Description will help minimize the headache 😎
+https://www.nexusmods.com/eldenring/mods/1996?tab=posts&BH=3
+
+<﻿c0000_a00_hi-anibnd-dcx/
+﻿﻿GR\data\INTERROOT_win64\chr\c0000\hkx\a00_hi_compendium
+﻿﻿﻿a000_027100.hkx﻿﻿#This file abosutly useless and changed from Vanilla????#
+﻿﻿﻿a000_027101.hkx﻿﻿#This file abosutly useless and changed from Vanilla????#
+﻿﻿﻿a000_027102.hkx﻿﻿#This file abosutly useless and changed from Vanilla????#
+﻿﻿﻿a000_027103.hkx﻿#This file abosutly useless and changed from Vanilla????#﻿﻿
+﻿﻿﻿a000_027110.hkx﻿#Praise the sun
+﻿c0000_a00_hi-anibnd-dcx>
+chr/>
