@@ -1,0 +1,201 @@
+Clever's Moveset Modpack
+Endorsements
+1,139
+Unique DLs
+54,293
+Total DLs
+83,380
+Total views
+432,345
+Version
+13.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+01 February 2023414AM
+Original upload
+25 July 2022534PM
+Created by
+Clever
+Uploaded by
+clevererraptor6
+Virus scan
+Safe to use
+Tags for this mod
+GAMEPLAY
+ANIMATION - MODIFIED
+ TAG THIS MOD
+DESCRIPTION
+FILES 1
+IMAGES 3
+VIDEOS 17
+ARTICLES 2
+POSTS 611
+BUGS 22
+LOGS
+STATS
+About this mod
+You last downloaded a file from this mod on 19 Mar 2023
+(WORKS ON 1.08.1) A moveset modpack containing mods created by me. Vengeance and Glory, Masterworked Starscourge Greatswords, Storm Demon, Thunderclap and Flash, Voidwalker Blade, Frenzied Reaper, Earthbending, Marais Dancing Blade, Lightblades, Deathborne Odachi, Airbending, Martial Arts, Firebending, God-Slaying Nagamaki, and much more!
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+
+
+Update 13.0 Operation Health
+ADDED Vengeance and Glory - Paladin Moveset
+REMOVED Morgott's Holy Armaments (Replaced by V&G)
+Cleaned up the mod's files to remove any leftovers from old Elden Ring patches - this removes all the weird green rows from the regulation.bin, and makes it MUCH! easier to merge )
+This also incorporates some buffs that Fromsoft did in the colosseum update. 
+This also fixes some old bugsweirdness, like with Ranni's grace not being usable. 
+
+Thunderclap and Flash now passes straight through enemies while bursting through them - this feels a ton better than before
+Fixed icon for Deathborne Odachi
+
+Updated names for the following weapons and skills, they now match the names of their mods
+Thunderclap and Flash
+Frenzied Reaper + Maddened Immolation
+Deathborne Odachi + Deathborne Transfer
+Lightning Generation (Firebending)
+Draconic Slam (Dragon Greatclaw)
+Hunter's Stance (Marais Executioner's Sword)
+
+Draconic Nuke Ash of War can now be slotted into most melee weapons
+Lavabending Ash of War can now be slotted into all melee weapons
+Hunter's Stance Ash of War can now be slotted into all melee weapons
+Thunderclap and Flash Ash of War can now be slotted into all melee weapons
+Airwalking Ash of War can now be slotted into all weapons 
+
+Thank you for all the support!!
+
+--------------------------------------------------------------------------------------------------------------
+
+This modpack contains
+
+Vengeance and Glory
+﻿
+
+Masterworked Starscourge Greatswords
+
+
+Storm Demon
+
+
+Thunderclap and Flash
+
+
+Voidwalker Meteoric Ore Blade
+
+
+Frenzied Reaper
+﻿
+
+Earthbending
+
+
+Marais Dancing Blade
+
+
+Lightblades
+
+
+Deathborne Odachi
+
+
+Airbending
+
+
+Martial Arts
+
+
+Firebending
+
+
+﻿God-Slaying Nagamaki
+
+
+Awakened Dragon Greatclaw
+
+
+Shatterstar Cannon
+
+
+Interior Ministry Katana Moveset
+
+
+Timed Block Parry
+
+
+Videos for all these are on my youtube channel clevererraptor6
+
+Join my discord if you want to discuss this mod, or any of my other mods httpsdiscord.ggg58uzuvmep
+
+If you'd like to support the creation of these mods, donate here httpsko-fi.comclevererraptor6
+I will never put any of my content behind a paywall )﻿
+
+Weapon Locations
+Vengeance and Glory replaced the Inseparable Sword
+Storm Demon replaced the Wakizashi 
+Thunderclap and Flash replaced the Storm Blade Ash of War
+Voidwalker Blade replaced the Unsheathe Ash of War
+Frenzied Reaper replaced the regular Scythe
+Earthbending replaced the Spiked Caestus
+Lavasurfing replaced the Prelate's Charge Ash of War
+All the Lightblades can be bought at the Twin Maiden Husks in the Roundtable Hold. 
+Deathborne Odachi replaced the Gargoyle's Blackblade greatsword
+Airbending replaced the regular Twinblade
+Airwalk replaced the Lightning Ram Ash of War
+Martial Arts replaced the Caestus
+Firebending replaced the Katar
+God-Slaying Nagamaki can be found in Kale's shop
+Shatterstar Cannon replaced Glintstone Staff
+
+Some of these weapons have extra mechanics that aren't immediately obvious. I highly suggest visiting each mod's page and checking out what's special about each of them.
+
+To Install
+1.
+Download Mod Engine 2 here httpsgithub.comsoulsmodsModEngine2releases
+Click Assets, then download the top .zip file.
+Extract the contents of the .zip onto your PC. 
+
+2.
+Download the mod and extract the contents of the zip file into the mod folder in the same directory as the modengine2_launcher.exe.
+Click launchmod_eldenring.bat to launch the game.
+3.
+Weapon locations are in the description, just scroll up a bit. Have fun! 
+
+Alternate Install with Elden Ring Reforged
+
+If you want to use this mod with Elden Ring Reforged, I highly suggest using the Unalloyed automatic merge tool, which is a great way to merge the two together, along with Seamless Coop and more.
+
+Unfortunately I cannot offer tech support to people using Unalloyed as merges are bound to cause issues that I cannot fix. 
+
+Link Elden Ring Unalloyed
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Regulation.bin merging How to merge regulation.bin files with DSMapStudio
+c0000.anibnd.dcx merging How to merge c0000.anibnd.dcx files with Yabber
+
+Each mod's specific merge information can be found on their pages. Overall, here are the edited regulation.bin params
+﻿AtkParam_Pc﻿
+BehaviorParam_PC
+Bullet
+EquipParamGem
+EquipParamWeapon
+Magic
+ShopLineupParam
+SpEffectParam
+SpEffectVfxParam
+WepAbsorpPosParam
+
+Notes
+My Superbuffed Moonveil mod is not included as it directly conflicts with Interior Ministry Katana Moveset.
+My Icefrayed Blade mod is not included as it directly conflicts with Voidwalker Meteoric Ore Blade. (It's in my Invasions mod!)
+My Morgott's Holy Armaments mod is not included as it directly conflicts with Vengeance and Glory. (It's in my Invasions mod!)

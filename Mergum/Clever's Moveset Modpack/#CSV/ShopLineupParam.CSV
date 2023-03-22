@@ -1,0 +1,6 @@
+ID,Name,equipId,value,mtrlId,eventFlag_forStock,eventFlag_forRelease,sellQuantity,pad3,equipType,costType,pad1,setNum,value_Add,value_Magnification,iconId,nameMsgId,menuTitleMsgId,menuIconId,pad2,
+100521,[Merchant Kale] God-Hunting Nagamaki,9082200,1500,-1,150100,0,-1,0,0,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101890,[LIGHTBLADES] Moonblade,9940000,1000,-1,0,0,-1,0,0,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101891,[LIGHTBLADES] Bloodblade,9950000,1000,-1,0,0,-1,0,0,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101892,[LIGHTBLADES] Blood Twinblade,9960000,1000,-1,0,0,-1,0,0,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101893,[LIGHTBLADES] Moon Twinblade,9970000,1000,-1,0,0,-1,0,0,0,0,1,0,1,-1,-1,-1,-1,[0|0]
