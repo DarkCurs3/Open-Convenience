@@ -1,5 +1,0 @@
-<chr/
-  #c0000-anibnd-dcx#
-    \GR\data\INTERROOT_win64\chr\c0000\tae\
-    a00.tae     Tempest and Thundercrash - DualFans
-chr/>
