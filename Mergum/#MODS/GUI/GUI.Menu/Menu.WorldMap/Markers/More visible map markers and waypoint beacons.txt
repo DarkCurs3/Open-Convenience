@@ -1,0 +1,73 @@
+More visible map markers and waypoint beacons
+
+
+https://www.nexusmods.com/eldenring/mods/1950?tab=descriptionMore visible map markers and waypoint beacons
+Endorsements
+36
+Unique DLs
+594
+Total DLs
+888
+Total views
+8,192
+Version
+1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download:
+MANUAL
+Last updated
+15 February 20237:25PM
+Original upload
+29 July 202211:02PM
+Created by
+XenonBerzerk
+Uploaded by
+VolkMods
+Virus scan
+Safe to use
+Tags for this mod
+REPLACER
+USER INTERFACE
+QUALITY OF LIFE
+ TAG THIS MOD
+DESCRIPTION
+FILES 4
+IMAGES 4
+VIDEOS 0
+POSTS 12
+BUGS 0
+LOGS
+About this mod
+You haven't downloaded this mod yet
+Small visual change that allows you to better see the markers and waypoint beacons.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Changelogs
+I know there is already a mod that changes these markers here on the nexus but in my opinion it doesn't make them visible enough.
+I have often encountered the problem of not being able to find them on the map because they are confused with the colors of the map itself, so I thought of making this change and making it available for those who have the same problem as me.
+
+Unfortunately I found that waypoint beacons have little space to make them different and bigger, but I have recolored them and now they are much more visible (outside the map, in the game, they will still appear in blue)
+
+
+---
+ 
+4 versions:
+Bright red vanilla style markers with red waypoint beacons (they can be seen well even in Caleid)
+Suitable Elden Ring style yellow markers with a yellow outline and black background, but still with waypoint beacons in yellow
+Blue suitable style markers and brighter blue waypoints
+Blue vanilla style markers and brighter blue waypoints
+ 
+---
+
+Installation with UXM:
+Unpack the dowloaded mod archive and drop the "menu" folder content into unpacked "menu" folder.
+
+Installation with ModEngine:
+Unpack the downloaded mod archive into "mod" folder like you would for any other mod
+
+---
