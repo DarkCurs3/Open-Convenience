@@ -1,0 +1,68 @@
+Ahegao Uchigatana
+Endorsements
+17
+Unique DLs
+899
+Total DLs
+1,016
+Total views
+9,504
+Version
+1
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+23 November 2022830PM
+Original upload
+23 November 2022830PM
+Created by
+Ezzikun
+Uploaded by
+Ezzikun
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 1
+IMAGES 2
+VIDEOS 0
+POSTS 0
+BUGS 0
+LOGS
+STATS
+About this mod
+You haven't downloaded this mod yet
+Ahegao Uchigatana
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+About
+
+Ahegao uchigatana. Now you can proudly show why you are indeed maidenless.
+
+Installation
+﻿
+UXM (Not recommended using for installing mods)
+
+1. Download UXM and follow the instructions to unpack.
+﻿2. Extract my mod anywhere you like.
+﻿3. Copy my mod that you have extracted and paste it into the parts folder in your game directory.
+﻿4. Patch the game using UXM.
+
+﻿Mod Engine 2
+
+1. Download Mod Engine 2. It can be placed in any location, does not have to be in the game directory (Only place it in your game directory as a last ﻿resort if the gamemodengine won't launch).
+﻿2. Check if you have parts folder within the mod folder of Mod Engine 2. If you do not have one, just create a new folder and name it parts.
+3. Extract this mod anywhere you like.
+4. ﻿Copy my mod you have extracted and paste it into the parts folder within the mod folder of Mod Engine 2.
+5. ﻿Launch Elden Ring with Batch File launchmod_eldenring.
+
+Disclaimer
+
+I am using Volition Reshade so it might look different on yours.

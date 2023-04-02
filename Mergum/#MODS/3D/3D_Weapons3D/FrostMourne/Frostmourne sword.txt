@@ -1,0 +1,108 @@
+https://www.nexusmods.com/eldenring/mods/3031?tab=description
+
+Installation guide:
+
+1) Download this
+2) Either extract your files with UXM or use Mod engine 2
+3) Drop this files into the "Parts"folder. Overwrite if asked.
+4) Profit.
+
+This replaces the DARK MOON GREATSWORD (if you want 2 handed) or the REGALIA OF EOCHAID (if you want one handed)
+
+Hope you all enjoy it!﻿
+Frostmourne sword
+Endorsements
+7
+Unique DLs
+202
+Total DLs
+378
+Total views
+5,087
+Version
+1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+26 February 2023629AM
+Original upload
+15 February 2023456AM
+Created by
+Lord Cobra and LuciferX10
+Uploaded by
+Lordcobra12
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 7
+IMAGES 12
+VIDEOS 1
+POSTS 12
+FORUM 0
+BUGS 0
+LOGS
+STATS
+About this mod
+You haven't downloaded this mod yet
+It's me again, Lord Cobra, reminding you again that you are nobody 'til somebody loves you... and that somebody is me. I love you -Lord Cobra.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Donations
+Hey people! Long time no see! As you know, last christmas I gave you all a gift and now here I am with something else. (Playable Goth girls it's still in the oven with standalone goth Malenia)
+
+This is my first port, commissioned by LuciferX10. He wanted me to bring his fantastic Frostmourne sword from his Bigger and Badder LICH KING Collectors Edition to Elden Ring so we can all enjoy it. I made 9 attempts, here are some of them.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UPDATE 
+(A Message from our sponsors)
+
+LuciferX10’s Version
+
+First I want to thank Lordcobra12 for getting me interested in modding again!!!! (been about 9 years...)
+ 
+So, as an option, I’ve asked Lordcobra to include the version I use, which comes with an optional regulation.bin file.
+ 
+Included in this file are 4 swords.  The MODEL FOR ALL 4 BLADES is the SAME.  It’s the one handed version upscaled by only 25%.  It’s closer to my original mod and similar in size to my replica’s at home.  No alteration to the proportions (not stretched).  It’s big, but not too big.   Looks good as both a Straight Swords and a Great Swords.
+
+Included is
+- 1 Handed Longword replacement (at only 25% larger size)
+Regulation.bin allows sheathing on back and the Helphen’s flaming effect (Press Left Bumper on controller or keyboard equivalent to activate).  Retains all normal longsword stats.  Fun starting out blade for evil players.  Not OP but real cool looking.
+ 
+- 1 Handed broadsword replacement (at only 25% larger size)
+Regulation.bin allows sheathing on back and the Darkmoon special effect (not the projectile though).
+Retains all other normal broadsword stats.  Again, not OP, just fun early game weapon.
+ 
+- 2 Handed Helphen’s  Sword replacement (at only 25% larger size).
+Regulation.bin makes the BLUE flame stay active until you unequip it.  No other changes to stats.
+
+- 2 Handed Darkmoon Sword Replacement (at only 25% larger size).
+Regulation.bin makes the Darkmoon effect stay active until you unequip it.  No other changes to stats.
+ 
+Lastly, as an added bonus, this regulation.bin does some additional tweaks.
+ALL one handed straight swords can be mounted on the back.  I did not tweak the curved swords placement.  (If you want that, find me on nexus and tell me to make one).
+
+All Great Swords and Curved Great Swords have had their weapon holding positions swapped with the Straight Swords animations.  NONE OF THE MOVE SETS have been altered in ANYWAY!  All this does is make it so your one handed holding, two handed holding and blocking angle look the same as that of the 1 handed straight sword.  Again, DOES NOT EFFECT MOVE SET!
+
+I did not change colossal swords, as I still want an option to have a massive sword held as if heavy.  If you want colossal swords included in this, send me (LuciferX10 a message on Nexus).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My commissions are always open and now I'm able to do ports of some games so if you want something, don't be afraid to reach out.
+
+Installation guide
+
+1) Download this
+2) Either extract your files with UXM or use Mod engine 2
+3) Drop this files into the Partsfolder. Overwrite if asked.
+4) Profit.
+
+This replaces the DARK MOON GREATSWORD (if you want 2 handed) or the REGALIA OF EOCHAID (if you want one handed)
+
+Hope you all enjoy it!﻿
