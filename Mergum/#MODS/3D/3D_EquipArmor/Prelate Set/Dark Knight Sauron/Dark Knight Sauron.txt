@@ -1,0 +1,82 @@
+https://www.nexusmods.com/eldenring/mods/2554?tab=description
+
+https://www.nexusmods.com/eldenring/mods/2554?tab=description
+Dark Knight Sauron
+Endorsements
+61
+Unique DLs
+1,584
+Total DLs
+2,895
+Total views
+26,234
+Version
+1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+05 February 2023845PM
+Original upload
+19 November 20221255AM
+Created by
+Lord Cobra KRDCD and madao112
+Uploaded by
+Lordcobra12
+Virus scan
+Safe to use
+Tags for this mod
+ TAG THIS MOD
+DESCRIPTION
+FILES 8
+IMAGES 12
+VIDEOS 1
+POSTS 45
+BUGS 0
+LOGS
+STATS
+About this mod
+You haven't downloaded this mod yet
+Build me a mod worthy of Mordor... -The voice in my head.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Donations
+Hey people, so I really loved the Sauron Armor from Shadow of War and, in my eyes, KRDCD's port for Elden Ring was a blessing. Still, there were some areas of the armor I didn't really liked so I spent a whole day of my life learning how to edit models so you don't have to. Here is a mashup made with dark knight set pieces, Sauron armor, the skull knight horse and Odogaron Master Rank Alpha's swords.
+
+What's new 
+
+-Made the textures of EVERYTHING darker so it looks like it belongs in the same armor. 
+-I covered some areas in the Sauron set that looked weird.
+-I made the boots in the Sauron armor thinner and taller just like the waist armor. (Looks better that way in my opinion).
+-I threw in the Black Knight's shoulders and neck pieces from KRDCD's port as well as the skirt so it has that spiky look.
+-I did a retexture of Madao112's Skull Knight horse so it fits the armor AND threw it here as optional file. (Sorry Torrent...)
+-I threw in Madao112's swords in the back seen in the Odogaron Master Rank Alpha as optional file for those of you who may want it.
+
+The future
+I don't think I'll do anything else related to armor since... well, come on, this is amazing but I'm not sure. Maybe I'll jump on something. The only complain i have with the armor and by god i tried to fix it is Sauron's head being a little bit curved or bowed instead of straight. He is the god damn Dark Lord, still there is nothing much i can do without getting the model of the hands in blender and messing with the neck and... well I have no idea on how to do that but if you want to try and gain my eternal love, then you are welcome to try. I'll leave some info in the last pic for this mod.
+
+Installation guide
+
+1) Download this
+2) Either extract your files with UXM or use Mod engine 2
+3) Drop this files into the Partsfolder. Overwrite if asked.
+4) Profit.
+
+-NOTE-
+If you want the horse as well then put those files on the chr folder.
+
+
+This replaces the fire prelate helm, gloves and legs (because they are an eyesore) while the chest is from the Veteran's Armor. 
+
+All credit to the mod authors for their models and textures.
+
+Odogaron Master Rank Alpha
+﻿Sauron's Armor Set﻿
+Berserk - The Skull Knight﻿
+
+I hope you all like it. 
