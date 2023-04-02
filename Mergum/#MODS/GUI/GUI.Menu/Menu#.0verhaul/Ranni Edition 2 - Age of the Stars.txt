@@ -1,0 +1,195 @@
+https://www.nexusmods.com/eldenring/mods/2769
+
+
+Ranni Edition 2 - Age of the Stars
+Endorsements
+140
+Unique DLs
+3,765
+Total DLs
+6,273
+Total views
+63,803
+Version
+1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+MANUAL
+Last updated
+22 February 20231208PM
+Original upload
+23 January 2023710AM
+Created by
+XenonBerzerk
+Uploaded by
+VolkMods
+Virus scan
+Some manually verified files
+Tags for this mod
+REPLACER
+MODELSMESHES
+TEXTURES
+NUDITY
+SEXYSKIMPY
+USER INTERFACE
+SEXUALISED CONTENT
+ TAG THIS MOD
+DESCRIPTION
+FILES 9
+IMAGES 8
+VIDEOS 0
+DOCS
+POSTS 82
+BUGS 0
+LOGS
+About this mod
+You last downloaded a file from this mod on 02 Apr 2023
+This mod includes a new and better crafted Ranni Edition + Goth Ranni and more. (NSFW)
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Changelogs
+﻿﻿
+Lunar Goth Princess Ranni is backeth and thy lady's quite quaint D
+
+
+﻿
+The new Ranni Edition 2 - Age of the stars is a makeover of my first Ranni Edition﻿﻿, but in this version as well as the skimpier and better crafted images, the entire hud is also customized and together there are also the new images of the relative loading screens, on on top of all this, it contains part of the wonderful gothic themed texture replacements for some characters, by now only Ranni﻿, Blaidd﻿, Melina﻿ (and and a Malenia currently present only in this mod) but maybe more characters will be added in the future,
+thanks to the beautiful work of Lordcobra12.﻿
+
+(I had his permission to use his files, but obviously, if you want the individual versions of these mods visit his page, also because they are beautiful works)
+
+
+
+There's a standalone version of this mod in the files tab that does not change anything to the characters but only to the game interface.
+
+
+
+
+
+FEATURES
+
+List of replaced or edited imagesinterface elements
+
+Bandai logo screen
+From Software logo screen
+Main Menu image
+Adjust brightness option little images (the ones that help you adjust brightness in-game)
+UI elements like the health bar frame, object frames and such
+Menus Page lateral images (You can bring it up by pressing the ESC key for PC, Options for PS, & Menu for Xbox)
+Inventory background
+Switched version of the inventory (The compact option﻿ that appears pressing R for Xbox, R3 for PS, dunno on PC)
+Object background (The smaller square where you can see zoomed-in objects above details such as their loredescription)
+Status menu background
+Clock frame and internal image that shows daynight cycle
+Custom map markers and waypoints
+24 new loading screens
+New autosave icon
+A little easter egg in one of the previous things that I hope someone will find )
+
+I’ve also provided a custom icon file in the Optional section of the files tab in case you’d like to make a pretty desktop shortcut.
+
+
+Gothic texture replacements by Lordcobra12
+
+Goth Ranni ﻿﻿
+﻿- New body models. The vanilla ones were replaced by TheSinkingHole's Sexy Empyrean models.
+﻿- Eyes makeup and llipstick added.
+﻿- Clothes are totally new (in this mod there's the spicy version of Goth Ranni)
+﻿- This updated version also has a darker hat (the original mod will be updated soon)
+
+Goth Blaidd﻿
+﻿- New fur color.
+﻿- Darker armor
+﻿- Darker sword.
+
+Goth Melina﻿﻿
+﻿- New hair color.
+﻿- Lipstick added.
+﻿- Darkened a bit her knife.
+
+Goth Malenia﻿ (currently present only in this mod)
+﻿- To make her look more alive Lorcobra12 made her skin is pale instead of gray.
+﻿- He tried to hide the rot of her arms and body so she is not gross
+﻿- Nails are black
+﻿﻿- 2nd phase butterflies are red
+
+
+
+
+
+INSTALLATION
+
+UXM Download and unpack my mod, then past my menu and chr folders into yours.
+or
+ModEngine2 Unpack the downloaded mod archive into mod folder like you would for any other mod.
+
+
+NOTES
+
+1. I'll do only the NSFW version of this mod (nothing conceivable as actual porn)
+because in my old Ranni mods the download difference ratio between NSFW and SFW is 101,
+so for now I won't put any more effort for a less succinct version. (at least I'm honest about it lol)
+
+
+
+2. The whole file that stores the TPF texture files for the loading screens have 1.10 GB.
+My changes to them are 206 MB, but because of game file structure, they should be embedded into this huge package.
+
+In the Optional Files there's an archive with only modified TPF files and below is a video guide done by ZLOHORT about how to inject them without downloading the whole mod. 
+Here is that guide on GDrive
+httpsdrive.google.comfiled1xZWv9baBaqrjIIaJPv1igFBzSPpx2PeGviewusp=sharing
+At the end of the video you will have exactly the same files for the loading screens from Main Files of this mod.
+Install it as usual, like as you dowloaded them from this page.
+
+For these steps you will need
+UXM Selective Unpacker to decompress the game main files
+and Yabber+ to repack the bhdbdt files.
+The Yabber recognizes only the 00_solo.tpfbhd file which is the header of the second big file. So repack only it like in the video.
+Actually by achieving these steps you will become able to create you own UI replacers. Just drag&drop the .tpf files into Yabber and the file will unpack. Inside the unpacked folder you will find the .dds texture image.
+Edit them using Photoshop with a DDS plug-in or in paintgimp if they support DDS editing.
+Repack back the tpf folder, then repack the tpfbhd folder.
+
+
+
+3. A thing to know about the button prompts
+
+Some people have issues with button prompts, this is due to the SB_KG.dds file residing in common.tpf.dcx.
+For this reason I choose to put a different layout version in the Miscellaneous section of the files tab,
+so if you are having this problem you can fix it using that.
+
+
+
+OTHER SUGGESTED MODS
+
+Chroma Torrent - Black body, blue glow option.
+
+
+
+CREDITS
+
+ZLOHORT - He teached me a lot, check out his mods﻿ for Dark Souls 3 and Elden Ring
+Lordcobra12 - Goth Ranni﻿, Goth Blaidd﻿, Goth Melina and the exclusive Goth Malenia (standalone Goth Malenia coming soon)
+TheSinkingHole - Ranni - Sexy Empyrean Edition
+Katalash - ModEngine2
+sekirodubi - Yabber+
+TKGP - UXM Selective Unpacker
+
+
+
+
+
+MY OTHER MODS
+
+Icon replace - Greatsword to Berserk's Dragonslayer
+More visible map markers and waypoint beacons
+Ranni Edition and Ranni Loading Screens
+ERA Edition 2 - Elden Ring Artworks
+ERA Edition - Elden Ring Artworks
+Main Menu Replacements
+Alternative Crosshair
+ER Symbol shield
