@@ -1,0 +1,150 @@
+https://www.nexusmods.com/eldenring/mods/1900?tab=description
+
+Ranni Edition
+Endorsements
+254
+Unique DLs
+6,472
+Total DLs
+9,949
+Total views
+74,697
+Version
+1.3
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+30 December 2022222AM
+Original upload
+23 July 20221257AM
+Created by
+XenonBerzerk
+Uploaded by
+VolkMods
+Virus scan
+Safe to use
+Tags for this mod
+REPLACER
+NUDITY
+NOT SAFE FOR WORK
+SEXYSKIMPY
+USER INTERFACE
+SEXUALISED CONTENT
+ TAG THIS MOD
+DESCRIPTION
+FILES 6
+IMAGES 4
+VIDEOS 0
+POSTS 51
+BUGS 0
+LOGS
+About this mod
+You last downloaded a file from this mod on 02 Apr 2023
+Splash, Logo, Title and Main Menus additions with Ranni's fanart piuctures. (SFW and NSFW versions)
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+Changelogs
+﻿Do you like this mod Then you should definitely check this
+Ranni Edition 2 - Age of The Stars
+
+It's a makeover of this mod﻿﻿, but in that version as well as the skimpier and better crafted images, the entire hud is also customized and together there are also the new images of the relative loading screens, on on top of all this, it contains part of the wonderful gothic themed texture replacements for some characters, by now only Ranni﻿, Blaidd﻿, Melina﻿ (and and a Malenia currently present only in this mod)
+but maybe more characters will be added in the future, thanks to the beautiful work of Lordcobra12.﻿
+
+
+
+
+
+Thanks to ZLOHORT for giving me advice on how to make this mod and for allowing me to use his gfx files.
+
+Take a look at his mod Malenia Edition.
+
+--
+
+Recommended mod to use in conjunction with this Ranni Loading Screens
+
+--
+
+Also thanks to Sekaso for helping me to update this mod.
+
+--
+
+
+The installation process it's the same as his mod
+Install via UXM by droping menu's folder content into unpacked menu folder.
+Should work for ModEngine2, I don't use it and can't tell exactly.
+I don't use ModEngine either so I think it's okay if you drop the menu folder in ME's mod folder like you would for any other mod as this mod is structured in the exact same way
+I edited only the hi folder inside the menu and I suppose this mod will work only for High quality settings. There was also low folder that I didn't touched.
+
+Many thanks to all authors of these beautiful images.
+I also tried to hide their signatures to make the images look like game assets. Sorry for that.
+
+
+Unlike ZLOHORT, maybe in the future I will make the same mod for other characters of my choice.
+
+
+I also add the same information provided by ZLOHORT to make your own custom images
+Anybody can make his own UI with images of his waifu.
+Unpack the game via UXM, go into Elden RingGamemenuhi folder, find there the 01_common.tpf and 02_title.tpf files.
+Unpack them via Yabber.
+Find
+SB_Title_01
+SB_MainMenu_03
+SB_MainMenu_02
+SB_MainMenu
+SB_In_GameTop
+MENU_BNE_Logo
+MENU_FROMSOFTWARE_Logo
+
+files and edit them in photoshop with installed DDS plug-in.
+Pack the tpf folders back via Yabber and drop them into Elden RingGamemenuhi by replacing.
+That's all.
+These are also the file edited in both mods, so if you already have mods that alter 01_common.tpf you can unpack our files and merge them using the method described above.
+
+
+--
+
+One important thing to know about the button prompts
+
+Some people have problems with button prompts, this is due to the SB_KG.dds file residing in common.tpf.dcx.
+Since I tried to fix this by changing the aforementioned file in version 1.3 it turns out to be like this﻿, while in 1.4 it is like this﻿,
+so for some one is fine the 1.3, for some other the 1.4 is fine.
+
+(Full comparsion here)
+
+For this reason I chose to leave version 1.4 in the Miscellaneous section in the files tab, so if you are having this problem you can try to solve it like this,
+otherwise refer to the sticky post in the comments for other solutions.
+
+--
+
+
+CREDITS FOR IMAGES
+Sakimi Chan - httpswww.deviantart.comsakimichanartRanni-v2-910814197
+劉了了の (pixiv) - httpswww.pixiv.netenartworks99214155
+Naadir Soulcatcher - httpswww.vsthemes.orgwallpapersgames51490-ranni-the-witch-elden-ring-18-x-ray.html﻿﻿﻿﻿
+list not inclusive of all images used
+
+
+--
+
+
+I've found that the youtube user TaiHen spontaneously uploaded this showcase,
+don't watch it if you don't want spoilers about this mod's in-game menus
+
+
+
+Anyway, thank you TaiHen )
+
+
+--
+
+
+Maybe instead of this mod you might prefer this one ERA Edition - Elden Ring Artworks
+
+Be sure to check out also this one﻿ made by ZLOHORT
