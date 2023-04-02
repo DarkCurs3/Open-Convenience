@@ -71,6 +71,14 @@
      NPC.model.Melina
   #c2180_h.texbnd.dcx       Gothic Melina
      NPC.model.Melina
+     
+  #c2050.chrbnd.dcx         Ranni Sexy
+     NPC.model.Ranni
+  #c2050_h.texbnd.dcx       Ranni Sexy
+     NPC.model.Ranni
+     
+     
+     
 chr/>
 
 <parts/
