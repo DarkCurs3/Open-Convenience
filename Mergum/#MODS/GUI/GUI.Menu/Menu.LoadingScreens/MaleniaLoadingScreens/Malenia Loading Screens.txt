@@ -1,0 +1,83 @@
+https://www.nexusmods.com/eldenring/mods/1877?tab=description
+
+Malenia Loading Screens
+Endorsements
+24
+Unique DLs
+588
+Total DLs
+785
+Total views
+8,430
+Version
+1.0
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+19 July 2022555PM
+Original upload
+19 July 2022541PM
+Created by
+NarberalGamma
+Uploaded by
+ZLOHORT
+Virus scan
+Some manually verified files
+Tags for this mod
+NUDITY
+SEXYSKIMPY
+SEXUALISED CONTENT
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 4
+VIDEOS 0
+POSTS 6
+BUGS 0
+LOGS
+STATS
+About this mod
+You haven't downloaded this mod yet
+Loading Screens Replacer. Mostly Malenia.
+
+REPORT ABUSE
+SHARE
+Permissions and credits
+To install via UXM by dropping the mod files into menuhi folder with overriding.
+
+Or to install via ModEngine2 by unpacking the mod archive into mod folder.
+
+The whole file that stores the textures for loading and item descriptions have 1.03 Gb.
+My changes have 29 Mb but because of game file structure, they should be embedded into this huge package.
+
+In the Optional Files I left an archive with only modified TPF files and below is a video guide about how to inject them without downloading the whole  mod. 
+Here is that guide on GDrive
+httpsdrive.google.comfiled1xZWv9baBaqrjIIaJPv1igFBzSPpx2PeGviewusp=sharing
+At the end of the video you will have exactly the same files from Main Files of this mod. Install it as usual, like as you dowloaded them from this page.
+
+For these steps you will need
+UXM Selective Unpacker to decompress the game main files
+and JKAndersonYabber to repack the bhdbdt files.
+The Yabber recognizes only the 00_solo.tpfbhd file which is the header of the second big file. So repack only it like in the video.
+Actually by achieving these steps you will become able to create you own UI replacers. Just drag&drop the .tpf files into Yabber and the file will unpack. Inside the unpacked folder you will find the .dds texture image.
+
+
+Find some cool images on artstation, zerochan or danbooru.
+Edit it by Photoshop with nvidia texture plug-in or in paintgimp if they support DDS editing.
+And repack back the tpf folder, then repack the tpfbhd folder.
+That's all.
+
+
+Thanks to all authors of these great images.
+Also thanks to XenonBerzerk for help and motivation.
+
+For those who know the Photoshop or similar graphics editors - sorry for using the diffuse blend option for image frames, it is so primitive, but I wasn't sure if the modding method will work, that's why I used this blend option.
+And now I don't want to edit all 24 images once again))
+
+Here is a guide how to make this mod
+httpsdrive.google.comfiled1Zp9CBEvNxoGX_Lhp3Hw5DdKPImats6l2viewusp=sharing

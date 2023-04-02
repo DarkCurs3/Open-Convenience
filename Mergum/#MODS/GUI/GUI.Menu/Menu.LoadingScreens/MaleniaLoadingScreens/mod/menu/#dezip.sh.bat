@@ -1,0 +1,2 @@
+winrar x -ibck *.zip 
+
