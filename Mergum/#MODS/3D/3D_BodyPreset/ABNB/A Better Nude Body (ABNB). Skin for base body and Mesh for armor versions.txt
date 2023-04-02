@@ -1,0 +1,132 @@
+A Better Nude Body (ABNB). Skin for base body and Mesh for armor versions
+Endorsements
+1,667
+Unique DLs
+39,495
+Total DLs
+80,685
+Total views
+411,792
+Version
+V1.0.1
+ADD MEDIA
+TRACK
+ENDORSE
+VOTE
+Download
+VORTEX
+MANUAL
+Last updated
+17 May 20221000AM
+Original upload
+15 May 2022126PM
+Created by
+LovelyLad
+Uploaded by
+TheSinkingHole
+Virus scan
+Safe to use
+Tags for this mod
+NUDITY
+SEXYSKIMPY
+SEXUALISED CONTENT
+ TAG THIS MOD
+DESCRIPTION
+FILES 2
+IMAGES 89
+VIDEOS 0
+ARTICLES 1
+POSTS 265
+BUGS 2
+LOGS
+STATS
+About this mod
+You haven't downloaded this mod yet
+A Better Nude Body (ABNB) is a detailed skin for the default female young muscle body (availableuseful for all users) and accompanying 3D model files for other modders to create their own ABNB lewd and skimpy mods.
+
+Remember to comment and endorse if you like this mod and want to see more like it!
+
+REPORT ABUSE
+SHARE
+Requirements
+Permissions and credits
+Donations
+ABNB - A Better Nude Body Mod and Tutorial
+
+Introduction
+
+If you’re here, it’s likely because you’re a connoisseur of fine lewd mods. Well friend, you’re in luck, because this here is the finest of nude mods in Elden Ring to date – at least if you’re focusing on features such as compatibility and in game cohesion.
+
+You may also have already noticed the lack of good nude mods to date – the ones that we have amount to simple textures of the base body, and full body replacements - which unfortunately don’t work with the body masking system that’s present in the game.
+
+This masking system allows various portions of the body to be hidden according to what the armor is covering – without its function, you’d simply have bits of body clipping through the armor.
+
+I have personally investigated various angles for figuring out this masking system, but have always come up short – it’s a tricky system, and at this point, I half suspect that the necessary information simply isn’t exposed via any of the mod tools we have access to – so we can’t edit this masking data properly.
+Which means to get a good high quality nude mod going… where you have actual 3D geometry for the fun parts – nipples, labia, etc., we’re going to need a more creative approach.
+
+This is where ‘A Better Nude Body’ (ABNB) steps in and tries to fill that gap.
+
+About
+
+ABNB works off 2 premises.
+1. That instead of having a custom nude body (we have a custom skin instead); we can replace armors with that custom nude body and have lewd bodies.
+2. That custom nude body should mesh with the existing base body where the edges meet – wherever the body can be clipped for masking, the custom nude body should meet it to create a seamless look.
+
+To that end, I’ve done the work to sculpt and create this custom nude body as seen in my previous releases on ‘Bikini Knight’ and ‘Night Cavalier Lewd Mod’. This is a high detailed body that provides a larger waist, more defined abs, larger D-cup breasts, shapely nipples and a detailed vulva and anus that responds to the movement of the characters skeleton (opening and closing with the movements of the character).
+
+This has been a significant amount of work – not one I’d expect other modders to replicate  - which is why I’m sharing this body and this tutorial so that others can help make better lewd mods and integrate it into their own lewd modding projects.
+
+As can be seen in a number of ABNB armor mods that I made during the process of putting these files and documentation together - these armors can cleanly integrate with the existing body while enhancing them.
+
+﻿
+ABNB Bikini Knight
+
+
+ABNB Royal Knight
+
+
+ABNB Night's Cavalry
+
+
+ABNB Land of Reeds Samurai Armor
+
+
+ABNB comes in 2 parts 
+The first is the skin for the existing base mesh. This is what you get when you strip your character off – it’s not the custom mesh, but rather a skin (for the young female muscle body) with details in the color, normals and roughness based off the ABNB nude mesh.
+
+
+ABNB Skin for Young Muscle Female Base mesh in the game. Doesn't replace the mesh so still works with the existing masking system. Uses high detail albedonormalroughnessspecularSSS textures to create the impression of 3Dish surface details.
+
+This gives not exactly matching – but as close as we can get to matching given the limitations – details between the base body and custom body.
+Incidentally, this skin is also maximally compatible with the rest of the game – so if you wanted to change your skin color and wear whatever else, then this will always work.
+
+I will eventually make variations of this skin for the different bodyage types available in game (or at least the young non-muscle body) perhaps with and without pubic hair (only comes with pubic hair currently) – but this will be a separate release without the ABNB branding as those additional skins won’t really be compatible with the ABNB skin (or at least the texture seams will be far more obvious when using them).
+
+The second part is the custom nude body mesh for modders to include with and replace the armors in the game. This works best when the full body is masked out by the armor (i.e. you can’t see the base mesh when you wear this armor).
+
+
+ABNB Custom Body Mesh with enhanced breastnipplesabdomenlabia details - visible when using an ABNB armor replacer mod.
+
+Unfortunately the skin on this body can’t take the skin color from the player character skin (or at least I haven’t figured out how; I see a new ZulieTheWitch video talking about custom material colors, but that know how hasn’t permeated down yet – if someone learns of how to do it, let me know and I’ll update this mod accordingly).
+
+To that end, maximum compatibility is achieved with a certain skin color – you can deviate to some extent when wearing armors that cover the seams, but ultimately, outside of a certain range of skin values, there’s going to be an obvious mismatch between custom body and base bodyhead.
+
+Similarly, this custom body only exists as a young female muscle body – it’s difficult enough to work on, test, and package one set of armors, much less X set where X is the number of combinations of skin colorbody types that would satisfy everyone completely, making additional variations untenable. It would also reduce cross compatibility (i.e. if one modder starts using a different color skin, then that body will no longer mesh with the rest of the bodies using ABNB).
+
+Right now, given the limitations of what the modding community knows and has easy access to, this is about as good as we (certainly I) can manage. The alternative nude bodies available simply eschew compatibility completely and look to remake a limited number of armors to fit over their nude bodies. I don’t feel that this approach is as useful or flexible – especially when it comes to elements like glovesgauntlets and feet coverings which generally don’t need to be remade and thus can use the in game masking system to hide the feethands.
+
+Installation
+
+For the general user all you have to do to get ABNB working is to install the skin mod – Take the FC F 0100.dcx and drop it into your parts directory that you’ve unpacked with UXM (or into your modengineparts directory). The additional bd_f_0000.partsbnd.dcx and lg_f_0000.partsbnd.dcx are underwear replacers to make those slots invisible, so use those as well if you want the nude mod to be visible when stripping off gear.
+
+To activate in game, choose the young female body, and make it muscular.
+
+If you just wanted a more detailed nude skin, that’s all you need to do.
+
+To color match ABNB armor mods, then you’ll need to set the skin color to the following values R243 G167B134
+
+
+
+Guide for Modders to make Custom ABNB Lewd and Skimpy Armors
+Because this guide is quite long and something that needs to be updated independently of this front page;
+See the Articles Tab for the Modding Guide

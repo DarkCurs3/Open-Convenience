@@ -1,0 +1,24 @@
+    <texture>
+      <name>New Body A.dds</name>
+      <format>0x01</format>
+      <flags1>0x00</flags1>
+      <flags2>0x00000000</flags2>
+    </texture>
+    <texture>
+      <name>New Body M.dds</name>
+      <format>0x67</format>
+      <flags1>0x00</flags1>
+      <flags2>0x00000000</flags2>
+    </texture>
+    <texture>
+      <name>New Body N.dds</name>
+      <format>0x6B</format>
+      <flags1>0x00</flags1>
+      <flags2>0x00000000</flags2>
+    </texture>
+    <texture>
+      <name>New Body 1m.dds</name>
+      <format>0x67</format>
+      <flags1>0x00</flags1>
+      <flags2>0x00000000</flags2>
+    </texture>
