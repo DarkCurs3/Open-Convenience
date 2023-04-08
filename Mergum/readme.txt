@@ -87,8 +87,13 @@ chr/>
 <parts/
     wp_a_1050.partsbnd.dcx      Frenzied Reaper
     wp_a_1050_l.partsbnd.dcx    Frenzied Reaper
+   
     wp_a_1152.partsbnd.dcx      Tempest and Thundercrash - DualFans
-    
+    wp_a_1310.partsbnd.dcx      Cast Sorceries from Hand ; BareHand
+      \GR\data\INTERROOT_win64\parts\Weapon\WP_A_1323\
+        WP_A_1323.tpf           Cast Sorceries from Hand ; BareHand
+        WP_A_1323.flver         Cast Sorceries from Hand ; BareHand
+     
 parts/>
 
 
