@@ -1,0 +1,48 @@
+Marais Dancing Blade Merge Information
+
+
+////////////////
+Regulation.bin //
+////////////////
+AtkParam_Pc:
+900000575
+900000576
+
+BehaviorParam_PC:
+900000575
+900000576
+
+EquipParamWeapon:
+3150000
+
+SpEffectParam:
+1811
+1813
+
+SpEffectVfxParam:
+8000001
+
+///////////////
+Files to move //
+///////////////
+c0000.anibnd.dcx:
+a02.tae - Basic Heavy Sword Animations
+a25.tae - Greatsword Moveset
+a130.tae - Marais Executioner Sword Heavy Attacks
+a615.tae - Square Off Ash of War
+
+c0000_a9x.anibnd.dcx:
+a615_040050.hkx
+a615_040052.hkx
+a615_040053.hkx
+a615_040070.hkx
+a615_040060.hkx
+a178_032010.hkx
+a178_032020.hkx
+a178_032500.hkx
+a178_032505.hkx
+a178_035000.hkx
+a178_035010.hkx
+a178_032501.hkx
+a130_030510.hkx
+a130_032510.hkx
