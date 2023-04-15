@@ -328,7 +328,6 @@
 		a853.tae
 		a854.tae
 		a939.tae
-/chr>
 
 
 c0000-chrbnd-dcx
@@ -834,3 +833,6 @@ C0000_a9x-anibnd-dcx
 	a839_030510.hkx
 	a839_032500.hkx
 	a839_032510.hkx
+
+	
+/chr>
