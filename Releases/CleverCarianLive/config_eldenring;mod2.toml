@@ -1,0 +1,20 @@
+
+# DO NOT MODIFY THIS FILE!
+# AUTO-GENERATED
+# CONTENTS WILL BE AUTOMATICALLY OVERWRITTEN
+
+# Produced by Elden Ring Randomizer v0.6.1
+# <hash>529f6832e4b36573163cd24d26942f42</hash>
+
+[modengine]
+debug = false
+
+external_dlls = [ "elden_ring_seamless_coop.dll", "\\mods\\SkipTheIntro\\SkipTheIntro.dll", "\\mods\\UnlockTheFps\\UnlockTheFps.dll" ]
+# external_dlls = [ "mods\elden_ring_seamless_coop.dll", "mods\SkipTheIntro.dll", "mods\UnlockTheFps.dll" ] 
+
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    { enabled = true, name = "mod", path = "mod2" }
+]
