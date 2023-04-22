@@ -1,4 +1,0 @@
-SkipTheIntro > Skip intro logos: 1
-SkipTheIntro > Hide initial white screen: 1
-SkipTheIntro > Hide initial white screen duration: 10000
-SkipTheIntro > Finding application window...
