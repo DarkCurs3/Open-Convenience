@@ -1,4 +1,6 @@
-Invoke-WebRequest -Uri "Yabber" -OutFile "Yabber"
+@echo on
+echo Will execute 'powershell #Download-update.bat.ps1'
+
+powershell \#Download-update.bat.ps1
 pause
-# winrar x -ibck .zip #
-pause
+exit
