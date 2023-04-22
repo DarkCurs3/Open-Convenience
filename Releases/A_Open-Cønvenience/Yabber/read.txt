@@ -1,0 +1,32 @@
+
+=============
+sfxbnd_commoneffects.ffxbnd.dcx (In "sfx" folder)
+=============
+The files added are:
+
+-f000660707.fxr and f000660707.ffxreslist
+-f000660708.fxr and f000660708.ffxreslist
+
+If you want to merge also make sure to add them to "_yabber-bnd4.xml" when re-packing the sfxbnd_commoneffects.ffxbnd.dcx
+=============
+regulation.bin
+=============
+Everything added in the regulation by this mod starts with XX so you can easily find all of it, rows were changed/added in:
+
+AtkParam_Pc
+Bullet
+BehaviorParam_PCEquipParamWeapon (Grave Scythe was modified)
+
+=============
+c0000.anibnd.dcx (In "chr" folder)
+=============
+The TAEs edited were the following:
+
+(Rolls & Backsteps)
+-a000.tae
+-a016.tae
+
+(Scythes)
+-a050.tae
+-a225.tae
+-a615.tae
