@@ -1,0 +1,17 @@
+
+    Directory: D:\ELDEN RING\NexusMods\Blocking\Timed Block
+    Parry\V2\#mod-mergable\chr\c0000-anibnd-dcx\GR\data\INTERROOT_win64\chr\c0000\tae
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2023-04-15   9:11 PM        5218832 a00.tae
+-a----        2023-04-15   9:11 PM         900160 a02.tae
+-a----        2023-04-15   9:11 PM         878288 a03.tae
+-a----        2023-04-15   9:11 PM         559056 a10.tae
+-a----        2023-04-15   9:11 PM         532912 a12.tae
+-a----        2023-04-15   9:11 PM         530512 a13.tae
+-a----        2023-04-15   9:11 PM         628560 a15.tae
+-a----        2023-04-15   9:11 PM          29696 a424.tae
+-a----        2023-04-15   9:11 PM          37632 a499.tae
+-a----        2023-04-15   9:11 PM          46336 a517.tae
