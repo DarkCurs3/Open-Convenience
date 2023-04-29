@@ -17,40 +17,40 @@
 	a17.tae
 	a18.tae
 	a19.tae
-		::a20.tae
-		::a21.tae
-		::a22.tae
-		::a23.tae
-		::a24.tae
-		::a25.tae
-		::a26.tae
-		::a27.tae
-		::a28.tae
+		::a20.tae		Dagger				*
+		::a21.tae		Torch				*
+		::a22.tae		Claw				*
+		::a23.tae		StraightSwords			*
+		::a24.tae		TwinBlades			*
+		::a25.tae		GreatSwordMoveset		*
+		::a26.tae		ColossalSwordMoveset		*
+		::a27.tae		ThrustingSwordMoveset		*
+		::a28.tae		CurvedSwordMoveset-Vanilla	*
 		::a29.tae		KatanaMoveset-Vanilla		*
-		::a30.tae
-		::a31.tae
-		::a32.tae
-		::a33.tae
-		::a34.tae
-		::a35.tae
-		::a36.tae
-		::a37.tae
-		::a38.tae
-		::a39.tae
-		::a40.tae
-		::a41.tae
-		::a42.tae
-		::a43.tae
-		::a44.tae
-		::a45.tae
-		::a46.tae
-		::a47.tae
-		::a48.tae
-		::a49.tae
-		::a50.tae
-		::a51.tae
-		::a52.tae
-			a53.tae		KatanaMoveset-WayofTheWind	*
+		::a30.tae		AxeMoveset-Vanilla		*
+		::a31.tae		ColossalWeapMov-Vanilla		*
+		::a32.tae		GreatAxeMoveset-Vanilla		*
+		::a33.tae		HammerMoveset-Vanilla		*
+		::a34.tae		Flail				*
+		::a35.tae		GreatHammer			*
+		::a36.tae		Spear				*
+		::a37.tae		GreatSpear			*
+		::a38.tae		Halberd				*
+		::a39.tae		HeavyThrustingSword		*
+		::a40.tae		CurvedGreatSword		*
+		::a41.tae		Catalyst			*
+		::a42.tae		Fist				*
+		::a43.tae		Whip				*
+		::a44.tae		Bow				*
+		::a45.tae		GreatBow			*
+		::a46.tae		CrossBow			*
+		::a47.tae		GreatShield			*				
+		::a48.tae		Small Shield			*
+		::a49.tae		Medium shield			*
+		::a50.tae		Scythe				*
+		::a51.tae		Light Bow			*
+		::a52.tae		Ballista			*
+			a53.tae		KatanaMoveset-WayofTheWind	@
 	a54
 	a55
 	a56
