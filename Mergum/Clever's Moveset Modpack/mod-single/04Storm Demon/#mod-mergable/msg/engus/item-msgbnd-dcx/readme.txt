@@ -1,0 +1,12 @@
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\ArtsCaption.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\ArtsName.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GemCaption.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GemName.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GoodsCaption.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GoodsDialog.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GoodsInfo.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\GoodsInfo2.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\MagicCaption.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\ProtectorName.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\WeaponCaption.fmg
+D:\ELDEN RING\NexusMods\Weapons\Clever's Moveset Modpack\#mod-mergable\04Storm Demon\#mod-mergable\msg\engus\item-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\WeaponName.fmg
