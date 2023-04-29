@@ -1,0 +1,12 @@
+ID,Name,variationId,behaviorJudgeId,ezStateBehaviorType_old,refType,pad2,refId,consumeSA,stamina,consumeDurability,category,heroPoint,pad1,
+900000475,[Storm Demon] Lightning Bolt (Barrage),0,475,1,1,[0|0],900000461,0,3,0,1,0,[0|0]
+900000480,[Storm Demon] Lightning Strike,0,480,1,1,[0|0],900000470,0,0,0,1,0,[0|0]
+900000481,[Storm Demon] Lightning Spear (Charged),0,481,1,1,[0|0],900000490,0,0,0,1,0,[0|0]
+900000482,[Storm Demon] Lightning Longblade,0,482,1,0,[0|0],900000491,0,12,0,1,0,[0|0]
+900000483,[Storm Demon] Left-Handed Bolt,0,483,1,0,[0|0],900000492,0,5,0,1,0,[0|0]
+900000484,[Storm Demon] Lightning Spinkick,0,484,1,0,[0|0],900000493,0,10,0,1,0,[0|0]
+900000485,[Storm Demon] Lightning Vaultkick,0,485,1,0,[0|0],900000494,0,15,0,1,0,[0|0]
+900000486,[Storm Demon] Tornado Kick (Spin),0,486,1,0,[0|0],900000495,0,5,0,1,0,[0|0]
+900000487,[Storm Demon] Tornado Kick (Slam),0,487,1,0,[0|0],900000496,0,10,0,1,0,[0|0]
+900000488,[Storm Demon] Dagger Hitbox,0,488,1,0,[0|0],900000497,0,5,0,1,0,[0|0]
+900000489,[Storm Demon] Barrage AOE,0,489,1,1,[0|0],900000460,0,0,0,1,0,[0|0]
