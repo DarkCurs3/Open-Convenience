@@ -1,0 +1,15 @@
+1. Drag your c0000.anibnd.dcx file to this folder. Replace the one in here.
+
+2. Open ConsoleApp.exe.
+
+3. Copy and paste this directory, so it would be something like "C:\Users\YOURNAMEHERE\Downloads\SDiER\GO_HERE\SekiroDeflectsInEldenRing" and hit ENTER.
+
+4. Type "n" (without the quotation marks, obviously).
+
+5. Type "r" (without the quotation marks, obviously).
+
+6. Wait the 30sec to 2min that it takes for the program to overwrite the files.
+
+7. For getting the animations and stuff in, crack open your hkx containers using Yabber and replace the files within with the ones included here.
+
+8. For getting the params and stuff, use MapStudio to import the params.
