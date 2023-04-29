@@ -26,7 +26,7 @@
 		::a26.tae
 		::a27.tae
 		::a28.tae
-		::a29.tae
+		::a29.tae		KatanaMoveset-Vanilla		*
 		::a30.tae
 		::a31.tae
 		::a32.tae
@@ -50,13 +50,13 @@
 		::a50.tae
 		::a51.tae
 		::a52.tae
-	a53
+			a53.tae		KatanaMoveset-WayofTheWind	*
 	a54
 	a55
 	a56
 	a57
 	a58
-	a59
+	a59			
 	a60
 	a61
 	a62
@@ -611,7 +611,7 @@
 		::a611.tae
 		::a612.tae
 		::a613.tae
-		::a614.tae
+		::a614.tae	Unsheat-Vanilla
 		::a615.tae
 		::a616.tae
 		::a617.tae
@@ -623,7 +623,7 @@
 		::a623.tae
 		::a624.tae
 		::a625.tae
-	a626	
+	a626			Unsheat-Icefrayed_Blade
 	a627
 	a628
 	a629
@@ -775,7 +775,7 @@
 		::a775.tae
 		::a776.tae
 		::a777.tae
-		::a778.tae
+		::a778.tae	Unsheat-TransientMoonlight;Vanilla
 		::a779.tae
 		::a780.tae
 		::a781.tae
