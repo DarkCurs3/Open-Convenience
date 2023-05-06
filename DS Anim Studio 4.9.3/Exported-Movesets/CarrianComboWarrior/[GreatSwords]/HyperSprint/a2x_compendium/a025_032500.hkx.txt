@@ -1,0 +1,10 @@
+Animation ID 			::32500
+Animation Name			::a025_032500.hkt
+
+Animation Type
+	Original Anim Entry		[  ]
+	Clone Anim Entry		[::]
+Properties - Clone Anim Entry:
+::	a025_030500
+::	-1
+

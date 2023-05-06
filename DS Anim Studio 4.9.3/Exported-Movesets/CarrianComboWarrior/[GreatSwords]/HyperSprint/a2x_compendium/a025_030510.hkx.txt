@@ -1,0 +1,1661 @@
+{
+  "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents, DS ANIM STUDIO",
+  "EventClips": {
+    "$type": "System.Collections.Generic.List`1[[DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 16,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.26666668,
+        "EventRow": 0,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": ""
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 16
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 66,
+        "EventUnk04": 0,
+        "EventStartTime": 0.46666667,
+        "EventEndTime": 0.5,
+        "EventRow": 0,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "GwcAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 16
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 605,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0333333,
+        "EventEndTime": 1.3666667,
+        "EventRow": 0,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 16
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 605,
+        "EventUnk04": 0,
+        "EventStartTime": 1.3666667,
+        "EventEndTime": 99.96667,
+        "EventRow": 0,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 16
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 9.766666,
+        "EventRow": 1,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "VwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 9.766666,
+        "EventRow": 2,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "agAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 710,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 14.733334,
+        "EventRow": 3,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AQABAAAAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 710
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.06666667,
+        "EventRow": 4,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "GgACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.06666667,
+        "EventEndTime": 11.3,
+        "EventRow": 4,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "GgAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.06666667,
+        "EventRow": 5,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "EAACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.06666667,
+        "EventEndTime": 10.433333,
+        "EventRow": 5,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "EAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 224,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.4,
+        "EventRow": 6,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAA0RAD/AAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 224
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.76666665,
+        "EventEndTime": 10.166667,
+        "EventRow": 6,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "BwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 224
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 7,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "dQACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 7,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "dQAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 8,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "CwACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 8,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "CwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 9,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "awABAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 9,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "awAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 10,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "HQACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 10,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "HQAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 67,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.2,
+        "EventRow": 11,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "uIcBAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 67
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 700,
+        "EventUnk04": 0,
+        "EventStartTime": 0.2,
+        "EventEndTime": 0.23333333,
+        "EventRow": 11,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AACAvwAAgL8AAIC/AACAv2QAAAAAAAAAAACAvwAADEIAAIC/AACAvw=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 67
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 11,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "ZwACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 67
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 11,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "ZwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 67
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.2,
+        "EventRow": 12,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "MwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.2,
+        "EventEndTime": 0.23333333,
+        "EventRow": 12,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "MwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2,
+        "EventRow": 12,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "aAACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2,
+        "EventEndTime": 10.233334,
+        "EventRow": 12,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "aAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.2,
+        "EventRow": 13,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "hgAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.2,
+        "EventEndTime": 0.23333333,
+        "EventRow": 13,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "hgAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0666667,
+        "EventEndTime": 1.1333333,
+        "EventRow": 13,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "HwACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 10.233334,
+        "EventRow": 13,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "HwAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 907,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.2,
+        "EventRow": 14,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AABAQAAAgL8AAIC/AACAvw=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 907
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 907,
+        "EventUnk04": 0,
+        "EventStartTime": 0.2,
+        "EventEndTime": 0.23333333,
+        "EventRow": 14,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AABAQAAAgL8AAIC/AACAvw=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 907
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0666667,
+        "EventEndTime": 1.1333333,
+        "EventRow": 14,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "IAACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 907
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 10.233334,
+        "EventRow": 14,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "IAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 907
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0666667,
+        "EventEndTime": 1.1333333,
+        "EventRow": 15,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "FgACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 10.233334,
+        "EventRow": 15,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "FgAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0666667,
+        "EventEndTime": 1.1333333,
+        "EventRow": 16,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "BAACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 10.233334,
+        "EventRow": 16,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "BAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 700,
+        "EventUnk04": 0,
+        "EventStartTime": 1.0,
+        "EventEndTime": 1.8333334,
+        "EventRow": 17,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AACAvwAAgL8AAIC/AACAv2QAAAAG/wAAAACAvwAAgL8AAIC/AACAvw=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 700
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 608,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.1,
+        "EventRow": 18,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AADAPwAAwD8AAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 608
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 608,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.6333333,
+        "EventRow": 18,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "mpmZP83MrD8AAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 608
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 608,
+        "EventUnk04": 0,
+        "EventStartTime": 0.1,
+        "EventEndTime": 0.36666667,
+        "EventRow": 19,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "mpmZP5qZmT8AAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 608
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 145,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.4,
+        "EventRow": 20,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "PAAAAP//AAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 145
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.4,
+        "EventRow": 21,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "SAAAAOxRuD3/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 226,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.46666667,
+        "EventRow": 22,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "HgAAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 226
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.4,
+        "EventEndTime": 0.43333334,
+        "EventRow": 23,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "OAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.43333334,
+        "EventRow": 24,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "OQAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 112,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2333333,
+        "EventRow": 24,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAAAAAUAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 1,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.5,
+        "EventRow": 25,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAAAAAAAAAAAAAAA/wEAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 1
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 1.1333333,
+        "EventEndTime": 1.2333333,
+        "EventRow": 25,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "CAAAANEHAAD//////////wAAAAEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 1
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.56666666,
+        "EventRow": 26,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "BQAAABC3BgB4AAAAAQAAAHQGAQEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 129
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 112,
+        "EventUnk04": 0,
+        "EventStartTime": 0.96666664,
+        "EventEndTime": 1.1,
+        "EventRow": 26,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AAAAAAYAAAAAAAAAAAAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 129
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 96,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.46666667,
+        "EventRow": 27,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "lXoJAPUBAAABAAAAAAEBAAAAAAAAAAAA"
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 96
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 0.96666664,
+        "EventEndTime": 1.1,
+        "EventRow": 27,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "CAAAANEHAAD//////////wAAAAEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 96
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.46666667,
+        "EventRow": 28,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "DwAAAMgAAAD//////////wAAAAEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 129
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.46666667,
+        "EventRow": 29,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AQAAAOmTQQZkAAAA/////wAAAAEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 129
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 129,
+        "EventUnk04": 0,
+        "EventStartTime": 0.36666667,
+        "EventEndTime": 0.46666667,
+        "EventRow": 30,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "AQAAAAGQQQZkAAAA/////wAAAAEBAAAAAAAAAP8AAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 129
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 1.2,
+        "EventRow": 31,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "CAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 66,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2666667,
+        "EventEndTime": 1.3333333,
+        "EventRow": 31,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "rgAAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 0
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 96,
+        "EventUnk04": 0,
+        "EventStartTime": 1.2666667,
+        "EventEndTime": 1.3,
+        "EventRow": 32,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "c/4HAAIAAAAKAAAAAAABAAAAAAAAAAAA"
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 96
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 66,
+        "EventUnk04": 0,
+        "EventStartTime": 1.4333333,
+        "EventEndTime": 1.4666667,
+        "EventRow": 32,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "GwcAAAAAAAA="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 96
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 300,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.06666667,
+        "EventRow": 33,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "aAACAAAAAAAAAIA//////w=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      },
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 0,
+        "EventUnk04": 0,
+        "EventStartTime": 0.06666667,
+        "EventEndTime": 3.5,
+        "EventRow": 33,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": "aAAAAAAAAAD/////BgAAAA=="
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 300
+        }
+      }
+    ]
+  },
+  "StartRow": 0,
+  "StartTime": 0.0,
+  "IsBigEndian": false
+}

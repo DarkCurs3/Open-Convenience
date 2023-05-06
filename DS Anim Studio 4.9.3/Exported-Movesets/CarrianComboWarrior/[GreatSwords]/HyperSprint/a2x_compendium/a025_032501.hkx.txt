@@ -1,0 +1,36 @@
+{
+  "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents, DS ANIM STUDIO",
+  "EventClips": {
+    "$type": "System.Collections.Generic.List`1[[DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "DSAnimStudio.TaeEditor.TaeClipboardContents+Clip, DS ANIM STUDIO",
+        "EventType": 16,
+        "EventUnk04": 0,
+        "EventStartTime": 0.0,
+        "EventEndTime": 0.73333335,
+        "EventRow": 0,
+        "EventParamBytes": {
+          "$type": "System.Byte[], System.Private.CoreLib",
+          "$value": ""
+        },
+        "EventGroup": {
+          "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup, SoulsAssetPipeline",
+          "GroupData": {
+            "$type": "SoulsAssetPipeline.Animation.TAE+EventGroup+EventGroupDataStruct, SoulsAssetPipeline",
+            "DataType": 0,
+            "CutsceneEntityType": 0,
+            "CutsceneEntityIDPart1": 0,
+            "CutsceneEntityIDPart2": 0,
+            "Area": 0,
+            "Block": 0
+          },
+          "GroupType": 16
+        }
+      }
+    ]
+  },
+  "StartRow": 0,
+  "StartTime": 0.0,
+  "IsBigEndian": false
+}
