@@ -1,0 +1,21 @@
+
+asset/
+└───aeg/
+	└───aeg227
+chr/
+event/
+map/
+└───mapstudio
+menu/
+└───hi
+msg/
+└───engus
+param/
+└───drawparam
+parts/
+script/
+sfx/
+			project.json
+			regulation.bin
+			regulation.bin.prev
+			version.txt
