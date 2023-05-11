@@ -1,0 +1,6 @@
+This is a mod to import Sekiro's Dimensional chop into DS3.
+
+The sfx id is 5858 5869 5870 5871 5872 5880 5881
+
+I made several versions, 5858 is the original Sekiro FXR file (without further modification), 5869,5870,5871,5872 is based on the file I modified, it looks to have better VFX effect. If you encounter any problems during using, please contact me.
+Usage: Put the file into the SFX file. 
