@@ -1,0 +1,23 @@
+Version 0.0.0 (2018-08-01)
+	- Created project
+Version 0.0.1 (2018-08-01)
+	- Added SDL1.2 context
+	- Added OpenGL rendering functions
+	- Slightly changed README
+Version 0.0.2 (2018-11-01)
+	- Encapsulated classes into one namespace
+	- Changed optimization level in Makefile
+	- Added file format parsing classes/functions for DCX and TXT formats
+	- Changed README to reflect updates
+Version 0.0.3 (2018-11-01)
+	- Added BND4 format parsing
+	- Changed DCX parser to use vectors
+Version 0.0.4 (2018-19-01)
+	- Cleaned up code
+	- Converted File class to namespace
+	- Added UTF-8 (UTF-16) support for file strings
+	- Removed some minor stuff
+Version 0.0.5 (2018-20-01)
+	- Added more rendering code
+	- Added mouse event handling (SDL)
+	- Slightly modified README
